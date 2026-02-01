@@ -18,7 +18,7 @@ A responsive landing page built using HTML and CSS as a front-end practice proje
 [Desktop Preview : i use svg elements]
 
 
-Just open [https://mohamedgn1997.github.io/Bookmark-landing-page] in your browser.
+Just open [https://mohamedgn1997.github.io/QR-code-component/] in your browser.
 👨‍💻 Author
 
 Created by [Mohamed Guenfoudi]
